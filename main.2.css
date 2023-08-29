@@ -1,0 +1,70 @@
+.main2 {
+    background: #151a26;
+}
+.incons .first {
+    display: flex;
+    width: 735px;
+    justify-content: space-between;
+    align-items: center;
+}
+.first h1 {
+    color: #fff;
+    font-family: Qanelas;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.first span {
+    color: #fff;
+    font-family: Qanelas;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+}
+.incons {
+    margin: 100px 0 0 0;
+}
+.cotigures {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+    margin-bottom: 95px;
+}
+.cotigures .co_box {
+    display: flex;
+    align-items: center;
+}
+.name_film {
+    color: #fff;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.work {
+    color: #f2f60f;
+    text-align: start;
+    font-size: 15px;
+    font-weight: 500;
+}
+.work_m {
+    color: rgba(255, 255, 255, 0.41);
+    font-family: Qanelas;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 4px 0;
+}
+.co_box div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.co_box img{
+    margin-right: 10px;
+    border-radius: 5px;
+}
